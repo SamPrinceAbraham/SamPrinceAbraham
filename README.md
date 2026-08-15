@@ -126,8 +126,7 @@ AI engineering • Developer tools • AI education • Automation • Open sour
 
 * GitHub: [@SamPrinceAbraham](https://github.com/SamPrinceAbraham)
 * Portfolio: Add your current portfolio URL here
-* LinkedIn: Add your LinkedIn URL here
-
+* LinkedIn:[@SamPrinceAbraham](https://www.linkedin.com/in/sam-prince-abraham?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 
 > Learn with AI. Build with AI. Understand what you build. 
